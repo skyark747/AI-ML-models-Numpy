@@ -1,1 +1,1 @@
-The folder contains different AI model made from scratch in numpy including ANN. 
+The folder contains different AI models made from scratch in numpy including ANN. 
